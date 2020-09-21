@@ -3,4 +3,4 @@ project(data_structure C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(data_structure main.c hash_table/simple_hash_table.h)
+add_executable(data_structure main.c hash_table/simple_hash_table.h hash_table/simple_hash_table.c)

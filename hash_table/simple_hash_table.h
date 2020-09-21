@@ -1,5 +1,7 @@
 //
 // Created by Souris on 9/21/2020.
+// just for practicing
+// origin: http://www.kaushikbaruah.com/posts/data-structure-in-c-hashmap/
 //
 
 #ifndef DATA_STRUCTURE_SIMPLE_HASH_TABLE_H
